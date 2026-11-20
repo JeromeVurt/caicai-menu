@@ -1,0 +1,18 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+*.local
+*.tsbuildinfo
+
+# 构建 / 工具缓存
+.vite/
+.cache/
+coverage/
+.trae-html-share-packages/
+
+# 系统与日志
+.DS_Store
+Thumbs.db
+*.log
